@@ -78,10 +78,10 @@ function App() {
 
         {/* Text Animation */}
         <a-text
-          value="Welcome to 3D World!"
+          value="You have Entered VR World!"
           position="-2 4 -3"
           color="black"
-          scale="1.5 1.5 1.5"
+          scale="3 3 3"
           animation="property: position; to: -2 4.2 -3; direction: alternate; dur: 2000; repeat: indefinite; easing: easeInOutQuad"
         ></a-text>
 
